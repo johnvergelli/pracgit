@@ -1,2 +1,0 @@
-# pracgit
-egghead.io tutorial
